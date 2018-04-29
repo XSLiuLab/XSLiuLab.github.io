@@ -1,0 +1,40 @@
+{{ partial "header.html" . }}
+{{ partial "navbar.html" . }}
+{{ partial "slogan.html" . }}
+
+
+<!-- Projects Section -->
+{{ partial "index/projects.html" . }}
+
+<!-- Publications Section -->
+{{ partial "index/publications.html" . }}
+
+<!-- Blog Posts Section -->
+{{ partial "index/posts.html" . }}
+
+<!-- Members -->
+{{ partial "index/members.html" . }}
+
+<!-- Vacancies -->
+{{ partial "index/vacancies.html" . }}
+
+<!-- Contact Section -->
+{{ if .Site.Params.contact.enable }}
+<section id="contact" class="home-section">
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12 col-md-4 section-heading">
+                <h1>{{ with .Site.Params.contact.title }}{{ . | markdownify }}{{ end }}</h1>
+                {{ with .Site.Params.contact.subtitle }}<p>{{ . | markdownify }}</p>{{ end }}
+            </div>
+            <div class="col-xs-12 col-md-8">
+                {{ partial "home_contact.html" . }}
+            </div>
+        </div>
+    </div>
+    {{ partial "sponsors.html" . }}
+</section>
+{{ end }}
+
+{{ partial "footer_container.html" . }}
+{{ partial "footer.html" . }}
