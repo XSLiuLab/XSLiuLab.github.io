@@ -3,12 +3,12 @@ publishdir = "public"
 static = "/static"
 builddrafts = false
 # Replace this with your website URL
-baseurl = "http://example.org/"
+baseurl = "https://liuxslab.netlify.com/"
 canonifyurls = true
 theme = "hugo-academic-group"
-title = "Academic group name"
+title = "Xue-Song Liu lab"
 math = true
-copyright = "&copy; Your Name, 2016 "
+copyright = "&copy; Xue-Song Liu lab, 2018- "
 
 [taxonomies]
 category = "categories"
@@ -17,8 +17,8 @@ tag = "tags"
 
 [params]
   description = "Website of research group"
-  author = "Your name"
-  email = "mail@example.org"
+  author = "Shixiang Wang"
+  email = "w_shixiang@163.com"
   address = "3566 Spirit Drive NEW HAVEN Connecticut"
 
   slogan = "ACADEMIC GROUP"
@@ -130,3 +130,5 @@ tag = "tags"
       name = "Contact"
       url = "#contact"
       weight = 7
+      
+

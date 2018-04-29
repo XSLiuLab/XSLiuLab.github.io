@@ -89,7 +89,7 @@
             {{ range $projects }}
                 {{ $current_project := . }}
                 {{ range .Params.participants }}
-                    {{ if eq .id $member_id }}
+                    {{ if eq $member_id $member_id }}
                     {{ if not ($.Scratch.Get "found") }}    
                         <div class="row">
                         <div class="col-sm-12">
