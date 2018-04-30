@@ -109,7 +109,7 @@ tag = "tags"
       url = "#publications"
       weight = 2
 
-    [[menu.main]]
+  [[menu.main]]
       name = "Projects"
       url = "#projects"
       weight = 3
