@@ -5,14 +5,14 @@ id = "member1"
 interests = ["Cancer Biology", "Immunotherapy Biomarkers"]
 name = "Xue-Song Liu"
 portrait = "/portraits/portrait.jpg"
-short_bio = "My short bio. I am Member Member."
+short_bio = "PI and Accosiate Professor of ShanghaiTech. University"
 short_name = ""
 title = "Member 1"
 
 [[social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:test@example.org"
+    link = "liuxs@shanghaitech.edu.cn"
 
 [[social]]
     icon = "twitter"
