@@ -120,7 +120,7 @@ tag = "tags"
       weight = 4
   [[menu.main]]
       name = "Teaching"
-      url = "#teaching"
+      url = "#vacancy"
       weight = 5
 
   [[menu.main]]
