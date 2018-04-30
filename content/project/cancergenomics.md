@@ -1,62 +1,22 @@
 +++
-date = "2016-07-12T16:10:22+02:00"
+date = "2018-04-30"
 description = ""
 external_link = ""
 image = ""
 project_id = ""
 short_description = ""
-title = "Deep Learning"
+title = "Cancer genetics and genomics"
 [[participants]]
     name = ""
     is_member = true
 +++
 
-# Et sensus uncos Troiaeque mori candidaque ostentis
+# Cancer genetics and genomics
 
-## Litusque praemia
+1. Using cell biochemistry and genetic engineered mouse models to study the function of novel cancer related genes, including C7orf24/GGCT and others.  
 
-*Lorem markdownum* natus, regis cecidere. Sinebat pudoris terque si commune
-pendebat ubi dubio cibique pontum virentem Nestora gaudia decebat [quoniam
-eunt](http://inarmis.net/.html): graves.
-[Teleste](http://www.autumni-remissis.io/ab) est colebat iamque ullis terra
-neque limen Nabataeus viribus ait.
+1. Cancer genomic study to identify novel features and novel driving alterations for cancer evolution, with a specific focus on the function of non-coding DNA elements. 
 
-    encoding_install_autoresponder = ultra.osiComputer(host.ccdColdWddm(fsb,
-            compressionAlignment), 324317, adsl_application);
-    if (exbibyte(remoteCopy.pplVirtualUrl(3, hardOopBoot), solid, 46)) {
-        eide_podcast(trinitron.statusRawApple(class, cmyk_gigabit));
-        ddrEcc(maximizeRw, appletPersonal);
-        hdd_null = pretest_window_rup;
-    } else {
-        system += hdd + 396409 - firewallLanMedia;
-    }
-    var firmware_wan = api(boot_winsock_us, 1, domainNetbios) + web_veronica_sql
-            + javascriptCtrPppoe.balancing(smtp, 1);
+1. Systematic study to identify biomarkers for cancer immunotherapy. See recent publication from our lab: Wang S, Jia M, He Z, Liu XS. APOBEC3B and APOBEC mutational signature as potential predictive markers for immunotherapy response in non-small cell lung cancer. Oncogene. 2018. 
 
-## Reperire haec Iunone dolor talaria eque maesto
-
-Letalem et nomen animalia summaque. Vivit et regione bracchia cui prosiliunt
-videat; sol cuius inquit siquid est labens, nomina? Alcimedon nomine spectarat.
-
-1. Reticere longeque te
-2. Plenissima silet cui gentem eripere
-3. Super agros dum clarus saepe supra
-4. Scelerata ianua non nostris Nisi
-5. Aperta sedes nec cingentibus pectore ullos cum
-
-## Quot locus errans relinquitur fuit densa tractum
-
-Nec meas et lecto ilia vulnera, haec Acmon conprecor venam Mopsopium lacrimis
-novi intempestiva cognoscere concordia promittit cui. Tabo torpet in cavas tot
-Stygios ego potest indicat, pinguis quaeque confertur? Mihi *vultumque vulgusque
-quem* Narve, illa est *vestigia* flammas, cum visus semper abesse, tollens inde
-dereptis, ut! Verbere honorum: idem hic facit inmitibus, hostilia quoque quem?
-
-1. Ille modo per
-2. Velant vultus et mente stipite simul
-3. Iam locumque primo utrumque iussit in velle
-4. Quaerant facies ne habemus coepto nec iras
-
-Cornum foribusque ambrosia fore fugit candida tum tecto mearum montes nascendi.
-Et cuius. Tauri urbe numquam sors credensque placidissime coepit quoque cupidine
-quem quos lapillis Itys.
+1. Genetic engineered mouse model to faithfully mimic human cancer. CRISPR biotechniques enable us to generate multiple genetic alterations in somatic cell simultaneously to mimic real human cancer, which are usually driving by 4-5 genetic alterations. 
