@@ -15,7 +15,7 @@ Xue-Song Liu lab study the fundamental difference between cancer cell and normal
 1. Combing high throughput sequencing techniques, super-resolution microscope or most advanced biotechnology to study the chromatin structure alterations during the evolution of human cancer.  
 
 
-## Join US
+## Join us
 
 Welcome graduate or undergraduate students to contact Professor Liu:
 
@@ -26,9 +26,9 @@ Welcome graduate or undergraduate students to contact Professor Liu:
 
 ## Members
 
-![](/group1.jpg)
+![](/img/group1.jpg)
 
-![](/group2.jpg)
+![](/img/group2.jpg)
 
 **PI**
 
@@ -48,7 +48,7 @@ Postdoc
 
 * Yuxing Chen
 
-Undergraduate students:
+Undergraduate students
 
 * Qi Zhu
 * Jiayue Zhao
@@ -86,7 +86,7 @@ Lab alumni
 
 1. Zhang HX, Liu ZX, Sun YP, Zhu J, Lu SY, Liu XS, Huang QH, Xie YY, Zhu HB, Dang SY, Chen HF, Zheng GY, Li YX, Kuang Y, Fei J, Chen SJ, Chen Z, Wang ZG. Rig-I regulates NF-κB activity through binding to Nf-κb1 3'-UTR mRNA. Proc Natl Acad Sci U S A. 2013, 110(16):6459-64. 
 
-1. Liu XS*, Zhao XD*, Wang X*, Yao YX, Zhang LL, Shu RZ, Ren WH, Huang Y, Huang L, Gu MM, Kuang Y, Wang L, Lu SY, Chi J, Fen JS, Wang YF, Fei J, Dai W, Wang ZG. Germinal Cell Aplasia in Kif18a Mutant Male Mice Due to Impaired Chromosome Congression and Dysregulated BubR1 and CENP-E. Genes Cancer. 2010, 1(1):26-39. (* co-first author) (Highlighted as cover story) 
+1. Liu XS\*, Zhao XD\*, Wang X\*, Yao YX, Zhang LL, Shu RZ, Ren WH, Huang Y, Huang L, Gu MM, Kuang Y, Wang L, Lu SY, Chi J, Fen JS, Wang YF, Fei J, Dai W, Wang ZG. Germinal Cell Aplasia in Kif18a Mutant Male Mice Due to Impaired Chromosome Congression and Dysregulated BubR1 and CENP-E. Genes Cancer. 2010, 1(1):26-39. (\* co-first author) (Highlighted as cover story) 
 
 1. Shu RZ, Zhang F, Liu XS, Li CL, Wang L, Tai YL, Wu XL, Yang X, Liao XD, Jin Y, Gu MM, Huang L, Pang XF, Wang ZG. Target deletion of the cytoskeleton-associated protein palladin does not impair neurite outgrowth in mice. PLoS One. 2009, 4(9):e6916. 
 
@@ -98,4 +98,4 @@ Lab alumni
 
 1. Liu XS, Luo HJ, Yang H, Wang L, Kong H, Jin YE, Wang F, Gu MM, Chen Z, Lu ZY, Wang ZG. Palladin regulates cell and extracellular matrix interaction through maintaining normal actin cytoskeleton architecture and stabilizing beta1-integrin. J Cell Biochem. 2007, 100(5):1288-300.
 
-1. Luo H*, Liu X*, Wang F, Huang Q, Shen S, Wang L, Xu G, Sun X, Kong H, Gu M, Chen S, Chen Z, Wang Z. Disruption of palladin results in neural tube closure defects in mice. Mol Cell Neurosci. 2005, 29(4):507-15. (* co-first author)
+1. Luo H\*, Liu X\*, Wang F, Huang Q, Shen S, Wang L, Xu G, Sun X, Kong H, Gu M, Chen S, Chen Z, Wang Z. Disruption of palladin results in neural tube closure defects in mice. Mol Cell Neurosci. 2005, 29(4):507-15. (\* co-first author)
