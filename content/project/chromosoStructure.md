@@ -1,6 +1,6 @@
 +++
 date = "2018-04-30"
-description = ""
+description = "Combing high throughput sequencing techniques, super-resolution microscope or most advanced bio techniques to study the chromatin structure alterations during the evolution of human cancer."
 external_link = ""
 image = ""
 participants = [""]
@@ -10,6 +10,5 @@ title = "Cancer chromatin structure"
 
 +++
 
-# Cancer chromatin structure
 
 Combing high throughput sequencing techniques, super-resolution microscope or most advanced bio techniques to study the chromatin structure alterations during the evolution of human cancer. 

@@ -1,6 +1,6 @@
 +++
 date = "2018-04-30"
-description = ""
+description = "Using cell biochemistry and genetic engineered mouse models to study the function of novel cancer related genes; Cancer genomic study to identify novel features, driver alteration and biomarkers for cancer immunotherapy"
 external_link = ""
 image = ""
 project_id = ""
@@ -11,7 +11,6 @@ title = "Cancer genetics and genomics"
     is_member = true
 +++
 
-# Cancer genetics and genomics
 
 1. Using cell biochemistry and genetic engineered mouse models to study the function of novel cancer related genes, including C7orf24/GGCT and others.  
 
