@@ -1,6 +1,6 @@
 +++
 bio = ""
-date = "2016-07-12T15:52:22+02:00"
+date = "2018-04-30"
 id = "member1"
 interests = ["Cancer Biology", "Immunotherapy Biomarkers"]
 name = "Xue-Song Liu"
