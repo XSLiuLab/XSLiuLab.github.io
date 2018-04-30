@@ -1,7 +1,7 @@
 +++
-description = "< **Cancer Biology** > For Undergraduate students. Textbook: The Biology of Cancer, 2nd Edition, by Robert A. Weinberg.  "
+description = "<**Cancer Biology**> For Undergraduate students. Textbook: The Biology of Cancer, 2nd Edition, by Robert A. Weinberg.  "
 external_link = "http://slst.shanghaitech.edu.cn/2017/0704/c305a2228/page.htm"
-vacancy_id = "0001"
+vacancy_id = ""
 +++
 
 # Class: *Cancer Biology*

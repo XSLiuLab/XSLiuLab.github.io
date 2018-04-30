@@ -1,7 +1,7 @@
 +++
-description = "<Introduction to Medicine> for undergraduate students, including the following chapters: Infectious Disease; Metabolic Disease; Cancer; Ageing; Biostatistics. "
+description = "<**Introduction to Medicine**> for undergraduate students, including the following chapters: Infectious Disease; Metabolic Disease; Cancer; Ageing; Biostatistics. "
 external_link = "http://slst.shanghaitech.edu.cn/2017/0704/c305a2228/page.htm"
-vacancy_id = "0002"
+vacancy_id = ""
 +++
 
 # Class: *Introduction to Medicine*
