@@ -7,6 +7,6 @@ external_link = ""
 include_participants_portraits = false
 [[participants]]
     name = ""
-    is_member = true
+    is_member = false
     id = ""
 +++

@@ -6,8 +6,8 @@ interests = ["Biomarker Discovery", "Cancer Informatics", "Bioinformatics", "Mac
 name = "Shixiang Wang"
 portrait = "/portraits/shixiang.jpg"
 short_bio = "Graduate Student "
-short_name = ""
-title = "Member 3"
+short_name = "shixiang"
+title = "Shixiang"
 
 [[social]]
     icon = "envelope"
@@ -30,9 +30,14 @@ title = "Member 3"
     link = "//github.com/ShixiangWang"
 
 [[education]]
-    course = "MSc in Computer Science"
-    institution = 'Harvard University'
-    year = 2014
+    course = "B.E. in Biomedical Engineering"
+    institution = 'University of Electronic Science and Technology of China'
+    year = 2016
+
+[[education]]
+    course = "PhD in Life and Science Technology"
+    institution = 'ShanghaiTech. University'
+    year = 2021 
 
 [[organizations]]
     name = "ShanghaiTech. University"
