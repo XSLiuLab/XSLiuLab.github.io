@@ -103,10 +103,6 @@ tag = "tags"
       url = "#top"
       weight = 1
 
-#  [[menu.main]]
-#      name = "Research"
-#      url = "/research"
-#      weight = 2
 
   [[menu.main]]
       name = "Publications"
@@ -122,16 +118,20 @@ tag = "tags"
       name = "Members"
       url = "#members"
       weight = 4
+  [[menu.main]]
+      name = "Teaching"
+      url = "#teaching"
+      weight = 5
 
   [[menu.main]]
       name = "Blog"
       url = "#posts"
-      weight = 5
+      weight = 6
 
 
   [[menu.main]]
       name = "Contact"
       url = "#contact"
-      weight = 6
+      weight = 7
       
 
