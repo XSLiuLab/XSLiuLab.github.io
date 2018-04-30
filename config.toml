@@ -19,10 +19,10 @@ tag = "tags"
   description = "Website of research group"
   author = "Xue-Song Liu"
   email = "liuxs@shanghaitech.edu.cn"
-  address = "L building A406, ShanghaiTech. University, Huanke Road 199, Pudong New Area, Shanghai, China"
+  address = "L building A406, ShanghaiTech. University, 393 Middle Huaxia Road, Pudong District, Shanghai"
 
   slogan = "Laboratory of Cancer Biology"
-  slogan_text = "LiuXS Lab, ShanghaiTech. University"
+  slogan_text = "LiuXS Lab, ShanghaiTech University"
 
   [[params.slogan_columns]]
     title = ""
@@ -103,35 +103,35 @@ tag = "tags"
       url = "#top"
       weight = 1
 
-  [[menu.main]]
-      name = "Research"
-      url = "/research"
-      weight = 2
+#  [[menu.main]]
+#      name = "Research"
+#      url = "/research"
+#      weight = 2
 
   [[menu.main]]
       name = "Publications"
       url = "#publications"
-      weight = 3
+      weight = 2
 
     [[menu.main]]
       name = "Projects"
       url = "#projects"
-      weight = 4
+      weight = 3
 
   [[menu.main]]
       name = "Members"
       url = "#members"
-      weight = 5
+      weight = 4
 
   [[menu.main]]
       name = "Blog"
       url = "#posts"
-      weight = 6
+      weight = 5
 
 
   [[menu.main]]
       name = "Contact"
       url = "#contact"
-      weight = 7
+      weight = 6
       
 
