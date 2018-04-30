@@ -20,11 +20,6 @@ title = "Shixiang"
     link = "//twitter.com/ShixiangWang"
 
 [[social]]
-    icon = "google-scholar"
-    icon_pack = "ai"
-    link = "https://scholar.google.nl/"
-
-[[social]]
     icon = "github"
     icon_pack = "fa"
     link = "//github.com/ShixiangWang"
