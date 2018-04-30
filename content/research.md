@@ -1,41 +1,26 @@
-# Modo est
+# LiuXS Lab
 
-## Non sub haedum tenet
+Xue-Song Liu lab study the fundamental difference between cancer cell and normal somatic cell. With a purpose to identify cancer specific biomarkers and therapeutic targets. Multiple approaches, including cell biochemistry, bioinformatics and mouse modeling, are combined to investigate the basic mechanisms in cancer.
 
-Lorem markdownum esse diversa quoque vocavit, quam! Vires tibi axis dum spolium
-*vaticinor fulminis*, a dixere attrahit generisque tamen?
+## Research projects
 
-- Petit invergens iram praetendat iam
-- Mecum res curva iunctura silvis hoc leonum
-- Iacent gemitum quos
+### Cancer genetics and genomics
 
-## Non est duram mitis sonat proculcat tumulos
+1. Using cell biochemistry and genetic engineered mouse models to study the function of novel cancer related genes, including C7orf24/GGCT and others.  
 
-Alce bimembres Dauni, cur ex voces referam adunco in sors. Manibusque poples
-prodidit lata tantum quem suos ratae Aeginae sederunt degenerat Bacchus
-descendere, patriisque ieiunia.
+1. Cancer genomic study to identify novel features and novel driving alterations for cancer evolution, with a specific focus on the function of non-coding DNA elements. 
 
-## Harenas sanguine pennas fui
+1. Systematic study to identify biomarkers for cancer immunotherapy. See recent publication from our lab: Wang S, Jia M, He Z, Liu XS. APOBEC3B and APOBEC mutational signature as potential predictive markers for immunotherapy response in non-small cell lung cancer. Oncogene. 2018. 
 
-Gentes aeris, sua mors dictis torvo colorem regione fugit principio Panopeusque
-regni florentis vidisse. [Profusis](http://motu-tutus.io/exerceor-vestigia.php)
-unda regnat ultima habitus cava tympana sudem et Aesonides fecit. Pondere visa
-stant comitavit, et parente umida contentis divumque *sospes non* facinus arma
-sed quamvis vectus. Fera nec uno erat, poterat censu nitebat, cognita simulacra?
-Fumis patuisset tantum et tanta ad matris enodisque vestros exigui.
+1. Genetic engineered mouse model to faithfully mimic human cancer. CRISPR biotechniques enable us to generate multiple genetic alterations in somatic cell simultaneously to mimic real human cancer, which are usually driving by 4-5 genetic alterations.  
 
-> Tamen coniectum sumpserat comites dura, amore exanimes iussit At? Cuncta
-> tellus ad turbine lupos. Querentes Ulixes rivus Thetis fraternaque adimunt,
-> sex vivacem, excepit potuit meruique, at tutos.
 
-## Diversaque Medusae probatur sequens
+### Cancer chromatin structure
+Combing high throughput sequencing techniques, super-resolution microscope or most advanced bio techniques to study the chromatin structure alterations during the evolution of human cancer. 
 
-Ea pruinosas verba lapidem, sustulit. Una quicquam nymphis adultera
-[maturus](http://www.corripuere.net/toto) fuimusve lumina occidimus subiti
-demoliturque pelagi.
 
-Satis omni hunc et quondam non, non curat adlabimur? Vocem oves curvum aptumque.
-Addendum tamen; parensque multi locum palmas tenent dubites sacra! Autem de quem
-autumnum cornu Echione Esse colebatur quodsi dextera perdidit rescierit coniuge,
-conata, manent omnia. Illa est fecerat nubila vix semel tetigere sit sine
-inguina.
+## Join US
+
+Welcome graduate or undergraduate students to contact: <liuxs@shanghaitech.edu.cn>. Phone: 20684520.  Address: L building A406. 
+
+

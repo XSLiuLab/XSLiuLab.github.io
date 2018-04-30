@@ -22,7 +22,7 @@ tag = "tags"
   address = "L building A406, ShanghaiTech. University, Huanke Road 199, Pudong New Area, Shanghai, China"
 
   slogan = "Laboratory of Cancer Biology"
-  slogan_text = "ShanghaiTech ACADEMIC GROUP"
+  slogan_text = "LiuXS Lab of ShanghaiTech. University"
 
   [[params.slogan_columns]]
     title = ""
