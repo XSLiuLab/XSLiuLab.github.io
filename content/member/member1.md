@@ -2,7 +2,7 @@
 bio = ""
 date = "2018-04-30"
 id = "member1"
-interests = ["Cancer Biology", "Immunotherapy Biomarkers"]
+interests = ["Cancer Biology", "Cancer Immunotherapy", "Genetic Engineered Mouse Models", "Chromatin Structure", "Driver Alteration"]
 name = "Xue-Song Liu"
 portrait = "/portraits/xuesong.jpg"
 short_bio = "PI and Accosiate Professor of ShanghaiTech. University"
