@@ -8,4 +8,4 @@ title = "Welcome to LiuXS Lab"
     link = "/member3"
 +++
 
-This is a website for Xue-Song Liu lab of ShanghaiTech. University. Welcome and if you find everything you are interested in. Please feel free to contact us.
+Welcome! This is a website for Xue-Song Liu lab of ShanghaiTech. University. If you find everything you are interested in, please feel free to contact us.
