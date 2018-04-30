@@ -21,6 +21,10 @@ Combing high throughput sequencing techniques, super-resolution microscope or mo
 
 ## Join US
 
-Welcome graduate or undergraduate students to contact: <liuxs@shanghaitech.edu.cn>. Phone: 20684520.  Address: L building A406. 
+Welcome graduate or undergraduate students to contact Professor Liu:
+
+* email: <liuxs@shanghaitech.edu.cn>
+* Phone: 20684520  
+* Address: L building A406 of ShanghaiTech. University 
 
 
