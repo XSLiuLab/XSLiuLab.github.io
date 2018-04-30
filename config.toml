@@ -21,8 +21,8 @@ tag = "tags"
   email = "liuxs@shanghaitech.edu.cn"
   address = "L building A406, ShanghaiTech. University, Huanke Road 199, Pudong New Area, Shanghai, China"
 
-  slogan = "LiuXS Lab -- Laboratory of Cancer Biology"
-  slogan_text = "ShanghaiTech. University"
+  slogan = "Laboratory of Cancer Biology"
+  slogan_text = "LiuXS Lab, ShanghaiTech. University"
 
   [[params.slogan_columns]]
     title = ""
