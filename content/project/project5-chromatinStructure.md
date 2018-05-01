@@ -5,7 +5,7 @@ external_link = ""
 picture = "projects/chrStructure.jpg"
 project_id = "project5"
 short_description = ""
-title = "Study of Chromatin Structure Alteration"
+title = "Cancer Chromatin Structure"
 participants_block_position = "down"
 [[participants]]
     name = "Xue-Song Liu"
