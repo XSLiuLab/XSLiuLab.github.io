@@ -1,14 +1,14 @@
 +++
 abstract = ""
 abstract_short = ""
-date = "2010-12-01"
+date = "2005-12-01"
 image = ""
 image_preview = ""
 math = false
-publication = "Genes Cancer. 2010, 1(1):26-39. "
+publication = "Mol Cell Neurosci. 2005, 29(4):507-15"
 publication_short = ""
 selected = false
-title = "Germinal Cell Aplasia in Kif18a Mutant Male Mice Due to Impaired Chromosome Congression and Dysregulated BubR1 and CENP-E"
+title = "Disruption of palladin results in neural tube closure defects in mice"
 url_code = ""
 url_dataset = ""
 url_pdf = ""

@@ -1,28 +1,23 @@
 +++
-abstract = " Lorem markdownum! In heros: cuncti pendebant templum tendentem bracchiafuit. Ius tibi positis octonis, est si ego inplet sine aequor fortibus, arcebatque missi opposuitque. Sibi adest Mnemonides vultum croceis tecti quartus cruor. Deflevit est remis corpora, super his plumis coepi non libera selige suspenderat ille vertice, purpureae Diana, et."
-abstract_short = "Short version of abstract."
-date = "2016-07-12T16:37:31+02:00"
+abstract = ""
+abstract_short = ""
+date = "2007-12-01"
 image = ""
 image_preview = ""
 math = false
-publication = "IEEE Transactions on Transactions"
+publication = " Blood. 2007, 110(3):870-76"
 publication_short = ""
 selected = false
-title = "Deep Learning"
-url_code = "//github.com"
+title = "Disruption of palladin leads to defects in definitive erythropoiesis by interfering with erythroblastic island formation in mouse fetal liver"
+url_code = ""
 url_dataset = ""
-url_pdf = "//arxiv.org"
-url_project = "/project/deeplearning"
+url_pdf = ""
+url_project = ""
 url_slides = ""
 url_video = ""
 
 [[authors]]
-    name = "member1"
+    name = "Xue-Song Liu"
     is_member = true
-[[authors]]
-    name = "Not a Member"
-    is_member = false
+    link = "/xuesong"
 +++
-
-
-You can add information in $\LaTeX$ and *Markdown* here.
