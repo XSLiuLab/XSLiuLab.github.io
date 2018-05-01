@@ -6,6 +6,7 @@ image = ""
 project_id = "project5"
 short_description = ""
 title = "Study of Chromatin Structure Alteration"
+participants_block_position = "down"
 [[participants]]
     name = "Xue-Song Liu"
     is_member = true

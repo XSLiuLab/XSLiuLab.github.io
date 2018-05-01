@@ -6,6 +6,7 @@ image = ""
 project_id = "project4"
 short_description = ""
 title = "Mimic Human Cancer using Genetic Engineered Mouse Model"
+participants_block_position = "down"
 [[participants]]
     name = "Xue-Song Liu"
     is_member = true

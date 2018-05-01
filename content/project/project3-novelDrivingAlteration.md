@@ -6,6 +6,7 @@ image = ""
 project_id = "project3"
 short_description = ""
 title = "Identify Novel Features and Novel Driving Alterations for Cancer Evolution"
+participants_block_position = "down"
 [[participants]]
     name = "Xue-Song Liu"
     is_member = true

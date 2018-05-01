@@ -6,6 +6,7 @@ picture = "projects/cancerCell.jpg"
 project_id = "project1"
 short_description = ""
 title = "Study of Cancer Related Genes"
+participants_block_position = "down"
 [[participants]]
     name = "Xue-Song Liu"
     is_member = true
