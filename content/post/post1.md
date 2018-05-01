@@ -1,5 +1,5 @@
 +++
-date = "2018-04-30"
+date = "2018-05-01"
 short_text = ""
 title = "Welcome to LiuXS Lab"
 [[authors]]
@@ -8,4 +8,16 @@ title = "Welcome to LiuXS Lab"
     link = "/shixiang"
 +++
 
-Welcome! This is a website for Xue-Song Liu lab of ShanghaiTech. University. If you find everything you are interested in, please feel free to contact us.
+Welcome! This is home page of Xue-Song Liu lab, ShanghaiTech. University. 
+
+Most information about our lab can be found [here](https://liuxslab.netlify.com/research/), if you find everything you are interested in, please feel free to contact us.
+
+BTW, welcome graduate or undergraduate students to contact Professor Liu:
+
+* email: <liuxs@shanghaitech.edu.cn>
+* Phone: 20684520  
+* Address: L building A406 of ShanghaiTech. University 
+
+Happy May Day,
+
+*Shixiang*
