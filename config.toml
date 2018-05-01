@@ -77,7 +77,7 @@ tag = "tags"
   [params.projects]
     title = "Projects"
     subtitle = ""
-    count = 3
+    count = 5
     str_all = "More Projects"
   
   # Vacancies section
