@@ -1,7 +1,7 @@
 +++
 bio = ""
 date = "2018-04-30"
-id = "member1"
+id = "a-xuesong"
 interests = ["Cancer Biology", "Cancer Immunotherapy", "Genetic Engineered Mouse Models", "Chromatin Structure", "Driver Alteration"]
 name = "Xue-Song Liu"
 portrait = "/portraits/xuesong.jpg"

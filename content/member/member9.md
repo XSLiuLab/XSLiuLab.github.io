@@ -1,7 +1,7 @@
 +++
 bio = ""
 date = "2018-04-30"
-id = "shixiang"
+id = "member3"
 interests = ["Biomarker Discovery", "Cancer Informatics", "Bioinformatics", "Machine Learning"]
 name = "Shixiang Wang"
 portrait = "/portraits/shixiang.jpg"
@@ -43,7 +43,3 @@ title = "Shixiang"
 Hi, I am a graduate student of ShanghaiTech. University at the Xue-Song Liu Lab. My research interests include cancer driver and biomarker discovery, bioinformatics.
 
 I am learning more about cancer researches, programming (R & Python & Linux Shell) and statistics due to my limited skill levels.
-
-## Publications
-
-1. Wang S, Jia M, He Z, Liu XS. APOBEC3B and APOBEC mutational signature as potential predictive markers for immunotherapy response in non-small cell lung cancer. Oncogene. 2018 Apr 26. doi: 10.1038/s41388-018-0245-9. 
