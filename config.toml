@@ -20,6 +20,7 @@ tag = "tags"
   description = "Website of research group"
   author = "Xue-Song Liu"
   email = "liuxs@shanghaitech.edu.cn"
+  phone = "20684520"
   address = "L building A406, ShanghaiTech. University, 393 Middle Huaxia Road, Pudong District, Shanghai"
 
   slogan = "Laboratory of Cancer Biology"
@@ -103,7 +104,7 @@ tag = "tags"
     enable = true
     title = "Contact"
     subtitle = ""
-    autolink = false  # Automatically link email and phone?
+    autolink = true  # Automatically link email and phone?
 
   # Navigation Links
   #   The weight parameter defines the order that the links will appear in.
