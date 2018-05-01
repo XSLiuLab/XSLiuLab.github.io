@@ -9,7 +9,15 @@ title = "Study of Cancer Related Genes"
 [[participants]]
     name = "Xue-Song Liu"
     is_member = true
-    id = "member1"
+    id = "a-xuesong"
+[[participants]]
+    name = "Zaoke He"
+    is_member = true
+    id = "s-zaoke"
+[[participants]]
+    name = "Shixiang Wang"
+    is_member = true
+    id = "s-shixiang"
 +++
 
 

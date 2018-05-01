@@ -10,5 +10,4 @@ participants_block_position = "down"
     name = ""
     is_member = false
     id = ""
-    position
 +++
