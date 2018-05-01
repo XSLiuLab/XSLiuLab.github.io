@@ -24,6 +24,10 @@ tag = "tags"
   slogan = "Laboratory of Cancer Biology"
   slogan_text = "LiuXS Lab, ShanghaiTech University"
 
+  [params.logo]
+    image = "img/logo_red.svg"
+    link = "http://www.shanghaitech.edu.cn/main.htm"
+
   [[params.slogan_columns]]
     title = ""
     text = ""
