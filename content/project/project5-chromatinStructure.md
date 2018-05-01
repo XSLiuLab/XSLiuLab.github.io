@@ -9,7 +9,11 @@ title = "Study of Chromatin Structure Alteration"
 [[participants]]
     name = "Xue-Song Liu"
     is_member = true
-    id = "member1"
+    id = "a-xuesong"
+[[participants]]
+    name = "Zaoke He"
+    is_member = true
+    id = "s-zaoke"
 +++
 
 

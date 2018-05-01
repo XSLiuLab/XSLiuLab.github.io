@@ -18,6 +18,18 @@ title = "Study of Cancer Related Genes"
     name = "Shixiang Wang"
     is_member = true
     id = "s-shixiang"
+[[participants]]
+    name = "Yuanyuan Shao"
+    is_member = true
+    id = "m-yuanyuan"
+[[participants]]
+    name = "Yuxing Chen"
+    is_member = true
+    id = "p-yuxing"
+[[participants]]
+    name = "Jing Zhang"
+    is_member = true
+    id = "s-zhangjing"
 +++
 
 

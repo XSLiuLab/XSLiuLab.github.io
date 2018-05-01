@@ -9,7 +9,27 @@ title = "Identify Novel Features and Novel Driving Alterations for Cancer Evolut
 [[participants]]
     name = "Xue-Song Liu"
     is_member = true
-    id = "member1"
+    id = "a-xuesong"
+[[participants]]
+    name = "Zaoke He"
+    is_member = true
+    id = "s-zaoke"
+[[participants]]
+    name = "Shixiang Wang"
+    is_member = true
+    id = "s-shixiang"
+[[participants]]
+    name = "Jing Zhang"
+    is_member = true
+    id = "s-zhangjing"
+[[participants]]
+    name = "Jiayue Zhao"
+    is_member = true
+    id = "u-jiayue"
+[[participants]]
+    name = "Qi Zhu"
+    is_member = true
+    id = "u-zhuqi"
 +++
 
 

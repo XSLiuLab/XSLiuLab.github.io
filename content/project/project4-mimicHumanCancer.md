@@ -9,7 +9,15 @@ title = "Mimic Human Cancer using Genetic Engineered Mouse Model"
 [[participants]]
     name = "Xue-Song Liu"
     is_member = true
-    id = "member1"
+    id = "a-xuesong"
+[[participants]]
+    name = "Zaoke He"
+    is_member = true
+    id = "s-zaoke"
+[[participants]]
+    name = "Yuanyuan Shao"
+    is_member = true
+    id = "m-yuanyuan"
 +++
 
 
