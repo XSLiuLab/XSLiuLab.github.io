@@ -17,7 +17,61 @@ url_slides = ""
 url_video = ""
 
 [[authors]]
-    name = "Xue-Song Liu"
+    name = "Wang G"
+    is_member = false
+[[authors]]
+    name = "Lunardi A"
+    is_member = false
+[[authors]]
+    name = "Zhang J"
+    is_member = false
+[[authors]]
+    name = "Chen Z"
+    is_member = false
+[[authors]]
+    name = "Ala U"
+    is_member = false
+[[authors]]
+    name = "Webster KA"
+    is_member = false
+[[authors]]
+    name = "Tay Y"
+    is_member = false
+[[authors]]
+    name = "Gonzalez-Billalabeitia E"
+    is_member = false
+[[authors]]
+    name = "Egia A"
+    is_member = false
+[[authors]]
+    name = "Shaffer DR"
+    is_member = false
+[[authors]]
+    name = "Carver B"
+    is_member = false
+[[authors]]
+    name = "Liu XS"
     is_member = true
     link = "/xuesong"
+[[authors]]
+    name = "Taulli R"
+    is_member = false
+[[authors]]
+    name = "Kuo WP"
+    is_member = false
+[[authors]]
+    name = "Nardella C"
+    is_member = false
+[[authors]]
+    name = "Signoretti S"
+    is_member = false
+[[authors]]
+    name = "Cordon-Cardo C"
+    is_member = false
+[[authors]]
+    name = "Gerald WL"
+    is_member = false
+[[authors]]
+    name = "Pandolfi PP"
+    is_member = false
 +++

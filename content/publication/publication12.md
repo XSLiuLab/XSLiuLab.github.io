@@ -20,4 +20,58 @@ url_video = ""
     name = "Xue-Song Liu"
     is_member = true
     link = "/xuesong"
+[[authors]]
+    name = "Zhao XD"
+    is_member = false
+[[authors]]
+    name = "Wang X"
+    is_member = false
+[[authors]]
+    name = "Yao YX"
+    is_member = false
+[[authors]]
+    name = "Zhang LL"
+    is_member = false
+[[authors]]
+    name = "Shu RZ"
+    is_member = false
+[[authors]]
+    name = "Ren WH"
+    is_member = false
+[[authors]]
+    name = "Huang Y"
+    is_member = false
+[[authors]]
+    name = "Huang L"
+    is_member = false
+[[authors]]
+    name = "Gu MM"
+    is_member = false
+[[authors]]
+    name = "Kuang Y"
+    is_member = false
+[[authors]]
+    name = "Wang L"
+    is_member = false
+[[authors]]
+    name = "Lu SY"
+    is_member = false
+[[authors]]
+    name = "Chi J"
+    is_member = false
+[[authors]]
+    name = "Fen JS"
+    is_member = false
+[[authors]]
+    name = "Wang YF"
+    is_member = false
+[[authors]]
+    name = "Fei J"
+    is_member = false
+[[authors]]
+    name = "Dai W"
+    is_member = false
+[[authors]]
+    name = "Wang ZG"
+    is_member = false
 +++

@@ -17,7 +17,43 @@ url_slides = ""
 url_video = ""
 
 [[authors]]
-    name = "Xue-Song Liu"
+    name = "Liu XS"
     is_member = true
     link = "/xuesong"
+[[authors]]
+    name = "Chandramouly G"
+    is_member = false
+[[authors]]
+    name = "Rass E"
+    is_member = false
+[[authors]]
+    name = "Guan Y"
+    is_member = false
+[[authors]]
+    name = "Wang G"
+    is_member = false
+[[authors]]
+    name = "Hobbs RM"
+    is_member = false
+[[authors]]
+    name = "Rajendran A"
+    is_member = false
+[[authors]]
+    name = "Xie A"
+    is_member = false
+[[authors]]
+    name = "Shah JV"
+    is_member = false
+[[authors]]
+    name = "Davis AJ"
+    is_member = false
+[[authors]]
+    name = "Scully R"
+    is_member = false
+[[authors]]
+    name = "Lunardi A"
+    is_member = false
+[[authors]]
+    name = "Pandolfi PP"
+    is_member = false
 +++

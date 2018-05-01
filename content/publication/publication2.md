@@ -17,7 +17,73 @@ url_slides = ""
 url_video = ""
 
 [[authors]]
+    name = "Ming Chen"
+    is_member = false
+[[authors]]
+    name = "Jiangwen Zhang"
+    is_member = false
+[[authors]]
+    name = "Katia Sampieri"
+    is_member = false
+[[authors]]
+    name = "John G. Clohessy"
+    is_member = false
+[[authors]]
+    name = "Lourdes Mendez"
+    is_member = false
+[[authors]]
+    name = "Enrique Gonzalez-Billalabeitia"
+    is_member = false
+[[authors]]
     name = "Xue-Song Liu"
     is_member = true
     link = "/xuesong"
+[[authors]]
+    name = "Yu-Ru Lee"
+    is_member = false
+[[authors]]
+    name = "Jacqueline Fung"
+    is_member = false
+[[authors]]
+    name = "Jesse M. Katon"
+    is_member = false
+[[authors]]
+    name = "Archita Venugopal Menon"
+    is_member = false
+[[authors]]
+    name = "Kaitlyn A. Webster"
+    is_member = false
+[[authors]]
+    name = "Christopher Ng"
+    is_member = false
+[[authors]]
+    name = "Maria Dilia Palumbieri"
+    is_member = false
+[[authors]]
+    name = "Moussa S. Diolombi"
+    is_member = false
+[[authors]]
+    name = "Susanne B. Breitkopf"
+    is_member = false
+[[authors]]
+    name = "Julie Teruya-Feldstein"
+    is_member = false
+[[authors]]
+    name = "Sabina Signoretti"
+    is_member = false
+[[authors]]
+    name = "Roderick T. Bronson"
+    is_member = false
+[[authors]]
+    name = "John M. Asara"
+    is_member = false
+[[authors]]
+    name = "Mireia Castillo-Martin"
+    is_member = false
+[[authors]]
+    name = "Carlos Cordon-Cardo"
+    is_member = false
+[[authors]]
+    name = "Pier Paolo Pandolfi"
+    is_member = false
 +++

@@ -17,7 +17,25 @@ url_slides = ""
 url_video = ""
 
 [[authors]]
-    name = "Xue-Song Liu"
+    name = "Liu XS"
     is_member = true
     link = "/xuesong"
+[[authors]]
+    name = "Liu Z"
+    is_member = false
+[[authors]]
+    name = "Gerarduzzi C"
+    is_member = false
+[[authors]]
+    name = "Choi DE"
+    is_member = false
+[[authors]]
+    name = "Ganapathy S"
+    is_member = false
+[[authors]]
+    name = "Pandolfi PP"
+    is_member = false
+[[authors]]
+    name = "Yuan ZM"
+    is_member = false
 +++
