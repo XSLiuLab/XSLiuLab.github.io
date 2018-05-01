@@ -5,7 +5,7 @@ external_link = ""
 picture = "projects/A3B.png"
 project_id = "project2"
 short_description = ""
-title = "Immunotherapy Birmarker Discovery"
+title = "Immunotherapy Biomarker Discovery"
 participants_block_position = "down"
 [[participants]]
     name = "Xue-Song Liu"
