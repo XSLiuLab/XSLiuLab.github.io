@@ -37,7 +37,7 @@ sort_position = 1
 
 [[organizations]]
     name = "ShanghaiTech. University"
-    role = "Associate Professor & PI"
+    role = "Assistant Professor & PI"
 
 +++
 
