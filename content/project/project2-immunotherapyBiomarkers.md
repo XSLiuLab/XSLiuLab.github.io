@@ -2,10 +2,11 @@
 date = "2018-05-01"
 description = "Systematic study to identify biomarkers for cancer immunotherapy."
 external_link = ""
-image = ""
+picture = "projects/A3B.png"
 project_id = "project2"
 short_description = ""
 title = "Immunotherapy Birmarker Discovery"
+participants_block_position = "down"
 [[participants]]
     name = "Xue-Song Liu"
     is_member = true
