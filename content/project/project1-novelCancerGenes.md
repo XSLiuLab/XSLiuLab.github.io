@@ -15,4 +15,4 @@ title = "Study of Cancer Related Genes"
 
 Using cell biochemistry and genetic engineered mouse models to study the function of novel cancer related genes, including C7orf24/GGCT and others.
 
-![](image/projects/cancerCell.jpg)
+![](/img/projects/cancerCell.jpg)
