@@ -1,12 +1,13 @@
 +++
 bio = ""
 date = "2018-04-30"
-id = "u-zhaoyang"
-name = "Zhaoyang Jiang"
+id = "m-yuanyuan"
+name = "Yuanyuan Shao"
 portrait = "/portraits/portrait.jpg"
-short_bio = "Undergraduate Student"
-short_name = "zhaoyang"
-title = "Member 10"
+short_bio = "Lab manager"
+short_name = "yuanyuan"
+title = "Yuanyuan Shao"
+sort_position = 2
 
 [[social]]
     icon = "envelope"
@@ -15,6 +16,6 @@ title = "Member 10"
 
 [[organizations]]
     name = "ShanghaiTech. University"
-    role = "Undergraduate Student"
+    role = "Lab manager"
 
 +++

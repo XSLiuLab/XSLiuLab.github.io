@@ -1,12 +1,13 @@
 +++
 bio = ""
 date = "2018-04-30"
-id = "s-zaoke"
-name = "Zaoke He"
+id = "u-zhuqi"
+name = "Qi Zhu"
 portrait = "/portraits/portrait.jpg"
-short_bio = "Graduate Student"
-short_name = "zaoke"
-title = "Member 5"
+short_bio = "Undergraduate Student"
+short_name = "zhuqi"
+title = "Qi Zhu"
+sort_position = 7
 
 [[social]]
     icon = "envelope"
@@ -15,6 +16,6 @@ title = "Member 5"
 
 [[organizations]]
     name = "ShanghaiTech. University"
-    role = "Graduate Student"
+    role = "Undergraduate Student"
 
 +++

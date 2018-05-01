@@ -1,12 +1,13 @@
 +++
 bio = ""
 date = "2018-04-30"
-id = "s-zhangjing"
-name = "Jing Zhang"
+id = "u-jiayue"
+name = "Jiayue Zhao"
 portrait = "/portraits/portrait.jpg"
-short_bio = "Graduate Student"
-short_name = "zhangjing"
-title = "Member 6"
+short_bio = "Undergraduate Student"
+short_name = "jiayue"
+title = "Jiayue Zhao"
+sort_position = 8
 
 [[social]]
     icon = "envelope"
@@ -15,6 +16,6 @@ title = "Member 6"
 
 [[organizations]]
     name = "ShanghaiTech. University"
-    role = "Graduate Student"
+    role = "Undergraduate Student"
 
 +++

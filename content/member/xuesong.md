@@ -7,7 +7,8 @@ name = "Xue-Song Liu"
 portrait = "/portraits/xuesong.jpg"
 short_bio = "PI and Accosiate Professor of ShanghaiTech. University"
 short_name = ""
-title = "Member 1"
+title = "Xue-Song Liu"
+sort_position = 1
 
 [[social]]
     icon = "envelope"

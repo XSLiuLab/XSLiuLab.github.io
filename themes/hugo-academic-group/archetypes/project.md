@@ -8,7 +8,7 @@ include_participants_portraits = true
 participants_block_position = "down"
 [[participants]]
     name = ""
-    is_member = true
+    is_member = false
     id = ""
     position
 +++

@@ -1,12 +1,13 @@
 +++
 bio = ""
 date = "2018-04-30"
-id = "u-zhuqi"
-name = "Qi Zhu"
+id = "s-zhangjing"
+name = "Jing Zhang"
 portrait = "/portraits/portrait.jpg"
-short_bio = "Undergraduate Student"
-short_name = "zhuqi"
-title = "Member 7"
+short_bio = "Graduate Student"
+short_name = "zhangjing"
+title = "Jing Zhang"
+sort_position = 4
 
 [[social]]
     icon = "envelope"
@@ -15,6 +16,6 @@ title = "Member 7"
 
 [[organizations]]
     name = "ShanghaiTech. University"
-    role = "Undergraduate Student"
+    role = "Graduate Student"
 
 +++

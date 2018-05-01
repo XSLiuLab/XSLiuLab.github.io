@@ -1,12 +1,13 @@
 +++
 bio = ""
 date = "2018-04-30"
-id = "u-yanglu"
-name = "Lu Yang"
+id = "u-zhaoyang"
+name = "Zhaoyang Jiang"
 portrait = "/portraits/portrait.jpg"
 short_bio = "Undergraduate Student"
-short_name = "yanglu"
-title = "Member 9"
+short_name = "zhaoyang"
+title = "Zhaoyang"
+sort_position = 10
 
 [[social]]
     icon = "envelope"

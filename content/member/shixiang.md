@@ -7,7 +7,8 @@ name = "Shixiang Wang"
 portrait = "/portraits/shixiang.jpg"
 short_bio = "Graduate Student "
 short_name = "shixiang"
-title = "Shixiang"
+title = "Shixiang Wang"
+sort_position = 6
 
 [[social]]
     icon = "envelope"

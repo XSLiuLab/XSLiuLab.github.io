@@ -5,8 +5,9 @@ id = "p-yuxing"
 name = "Yuxing Chen"
 portrait = "/portraits/portrait.jpg"
 short_bio = "Postdoc"
-short_name = "yuanyuan"
-title = "Member 4"
+short_name = "yuxing"
+title = "Yuxing Chen"
+sort_position = 3
 
 [[social]]
     icon = "envelope"
