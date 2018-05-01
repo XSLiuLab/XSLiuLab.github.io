@@ -1,7 +1,7 @@
 +++
 bio = ""
 date = "2018-04-30"
-id = "b-yuanyuan"
+id = "m-yuanyuan"
 name = "Yuanyuan Shao"
 portrait = "/portraits/portrait.jpg"
 short_bio = "Lab manager"

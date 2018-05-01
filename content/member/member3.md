@@ -1,7 +1,7 @@
 +++
 bio = ""
 date = "2018-04-30"
-id = "shixiang"
+id = "s-shixiang"
 interests = ["Biomarker Discovery", "Cancer Informatics", "Bioinformatics", "Machine Learning"]
 name = "Shixiang Wang"
 portrait = "/portraits/shixiang.jpg"
