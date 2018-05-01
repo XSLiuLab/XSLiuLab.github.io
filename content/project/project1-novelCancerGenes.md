@@ -2,8 +2,8 @@
 date = "2018-05-01"
 description = "Using cell biochemistry and genetic engineered mouse models to study the function of novel cancer related genes, including C7orf24/GGCT and others."
 external_link = ""
-image = "img/projects/cancerCell.jpg"
-project_id = ""
+image = "projects/cancerCell.jpg"
+project_id = "project1"
 short_description = ""
 title = "Study of Cancer Related Genes"
 [[participants]]
@@ -14,3 +14,5 @@ title = "Study of Cancer Related Genes"
 
 
 Using cell biochemistry and genetic engineered mouse models to study the function of novel cancer related genes, including C7orf24/GGCT and others.
+
+![](image/projects/cancerCell.jpg)
