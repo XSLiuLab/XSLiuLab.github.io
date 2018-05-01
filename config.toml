@@ -28,10 +28,10 @@ tag = "tags"
     image = "img/logo_red.svg"
     link = "http://www.shanghaitech.edu.cn/main.htm"
 
-  [[params.navbar_hierarchy]]
-    name = "LiuXS Lab"
-    link = "https://liuxslab.netlify.com/"
-    position = 1
+#  [[params.navbar_hierarchy]]
+#    name = "LiuXS Lab"
+#    link = "https://liuxslab.netlify.com/"
+#    position = 1
 
   [[params.slogan_columns]]
     title = ""
