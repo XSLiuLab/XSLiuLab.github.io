@@ -6,7 +6,7 @@ Xue-Song Liu lab study the fundamental difference between cancer cell and normal
 
 1. Using cell biochemistry and genetic engineered mouse models to study the function of novel cancer related genes, including C7orf24/GGCT and others.  
 
-1. Systematic study to identify biomarkers for cancer immunotherapy. See recent publication from our lab: Wang S, Jia M, He Z, Liu XS. APOBEC3B and APOBEC mutational signature as potential predictive markers for immunotherapy response in non-small cell lung cancer. Oncogene. 2018. 
+1. Systematic study to identify biomarkers for cancer immunotherapy. See recent publication from our lab: [**Wang S, Jia M, He Z, Liu XS. APOBEC3B and APOBEC mutational signature as potential predictive markers for immunotherapy response in non-small cell lung cancer. *Oncogene*. 2018**](/publication/publication1/). 
 
 1. Cancer genomic study to identify novel features and novel driving alterations for cancer evolution, with a specific focus on the function of non-coding DNA elements. 
 
