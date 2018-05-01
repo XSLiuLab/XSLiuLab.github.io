@@ -11,10 +11,12 @@ participants_block_position = "down"
     name = "Xue-Song Liu"
     is_member = true
     id = "a-xuesong"
+    position = 1
 [[participants]]
     name = "Zaoke He"
     is_member = true
     id = "s-zaoke"
+    position = 2
 +++
 
 

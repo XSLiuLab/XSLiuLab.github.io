@@ -11,14 +11,17 @@ participants_block_position = "down"
     name = "Xue-Song Liu"
     is_member = true
     id = "a-xuesong"
+    position = 1
 [[participants]]
     name = "Zaoke He"
     is_member = true
     id = "s-zaoke"
+    position = 3
 [[participants]]
     name = "Shixiang Wang"
     is_member = true
     id = "s-shixiang"
+    position = 2
 +++
 
 Systematic study to identify biomarkers for cancer immunotherapy. 

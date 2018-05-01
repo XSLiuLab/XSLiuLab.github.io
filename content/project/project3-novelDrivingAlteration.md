@@ -11,26 +11,32 @@ participants_block_position = "down"
     name = "Xue-Song Liu"
     is_member = true
     id = "a-xuesong"
+    position = 1
 [[participants]]
     name = "Zaoke He"
     is_member = true
     id = "s-zaoke"
+    position = 3
 [[participants]]
     name = "Shixiang Wang"
     is_member = true
     id = "s-shixiang"
+    position = 4
 [[participants]]
     name = "Jing Zhang"
     is_member = true
     id = "s-zhangjing"
+    position = 2
 [[participants]]
     name = "Jiayue Zhao"
     is_member = true
     id = "u-jiayue"
+    position = 6
 [[participants]]
     name = "Qi Zhu"
     is_member = true
     id = "u-zhuqi"
+    position = 5
 +++
 
 
