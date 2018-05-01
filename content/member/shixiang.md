@@ -13,7 +13,7 @@ sort_position = 6
 [[social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:name@email.com"
+    link = "mailto:wangshx@shanghaitech.edu.cn"
 
 [[social]]
     icon = "twitter"
