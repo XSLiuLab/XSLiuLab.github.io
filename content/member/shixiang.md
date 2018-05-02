@@ -5,7 +5,7 @@ id = "s-shixiang"
 interests = ["Biomarker Discovery", "Cancer Informatics", "Bioinformatics", "Machine Learning"]
 name = "Shixiang Wang"
 portrait = "/portraits/shixiang.jpg"
-short_bio = "Graduate Student "
+short_bio = "Be be or not be be, it's also a question"
 short_name = "shixiang"
 title = "Shixiang Wang"
 sort_position = 6
@@ -30,10 +30,10 @@ sort_position = 6
     institution = 'University of Electronic Science and Technology of China'
     year = 2016
 
-[[education]]
-    course = "PhD in Life and Science Technology"
-    institution = 'ShanghaiTech. University'
-    year = 2021 
+#[[education]]
+#    course = "PhD in Life and Science Technology"
+#    institution = 'ShanghaiTech. University'
+#    year = 2021 
 
 [[organizations]]
     name = "ShanghaiTech. University"
