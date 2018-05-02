@@ -3,6 +3,7 @@ bio = ""
 date = "2018-04-30"
 id = "s-zaoke"
 name = "Zaoke He"
+interests = ["CRISPR" ,"Cancer Chromatin Structure", "Funtion of Cancer Related Genes", "Genetic Engineered Mouse Model"]
 portrait = "/portraits/zaoke.png"
 short_bio = "Graduate Student"
 short_name = "zaoke"
@@ -18,6 +19,10 @@ sort_position = 5
     name = "ShanghaiTech. University"
     role = "Graduate Student"
 
+[[education]]
+    course = "Biotechnology"
+    institution = 'Shihezi University'
+    year = 2016
 +++
 
 ## Publications
