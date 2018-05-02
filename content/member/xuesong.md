@@ -15,10 +15,6 @@ sort_position = 1
     icon_pack = "fa"
     link = "mailto:liuxs@shanghaitech.edu.cn"
 
-[[social]]
-    icon = "twitter"
-    icon_pack = "fa"
-    link = "//twitter.com/"
 
 [[education]]
     course = "Postdoctoral Fellow"
