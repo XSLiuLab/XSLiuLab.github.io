@@ -19,11 +19,11 @@ html {
 }
 
 header{
-    background-image: url("/img/header.gif");
+    background-image: url("/img/header.jpg");
     background-size: cover;
-    text-align: center right;
+    text-align: center;
     color: #fff;
-    background-position: center left;
+    background-position: center;
     /* min-height: 100%;  */
 }
 
