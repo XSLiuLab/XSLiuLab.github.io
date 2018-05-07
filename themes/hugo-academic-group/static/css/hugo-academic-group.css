@@ -129,13 +129,13 @@ h4 {
 
 a, a:visited,
 h3.article-title a:hover {
-    color: #0095eb;
+    color: #000000;
     text-decoration:none;
     transition:color 0.6s ease;
 }
 
 a:hover {
-    color: #005181;
+    color: #000000;
 }
 
 img,
