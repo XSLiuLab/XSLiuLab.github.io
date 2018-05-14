@@ -1,0 +1,2 @@
+# Redirect default Netlify subdomain to primary domain
+http://liuxslab.netlify.com/* http://liuxslab.slst.shanghaitech.edu.cn/:splat 301!
