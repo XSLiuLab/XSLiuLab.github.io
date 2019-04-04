@@ -17,17 +17,53 @@ tar -zxvf *tar.gz
 
 ### 拉取apache容器
 
-安装docker-ce，然后`sudo docker pull htppd`。
+安装docker-ce，然后`sudo docker pull httpd`。
 
 接着将配置文件从容器中拷贝出来
 
 专门创建一个`apache`目录放置建站需要修改或提供的文件。
 
+在里面新建2个文件夹：`conf`和`logs`。
+
+以交互模式运行一个`httpd`容器，然后从外面拷贝配置文件到`conf`目录下。
+
 ```
 sudo docker cp <容器名>:/usr/local/apache2/conf/httpd.conf /public/data/apache/conf/
 ```
 
+克隆本仓库，在仓库根目录下运行`hugo`。
+
+将`public`目录链接为`apache`下的`www`目录。
+
+```
+ ln -s XSLiuLab.github.io/public/ www
+```
+
+
+然后使用`sudo`运行下面的代码。
+
+```
+ sudo ./run_website.sh liulab_website
+```
+
+文件名：run_website.sh
+
+```
+docker run --name $1 -p 80:80 \
+  -v /public/data/apache/www/:/usr/local/apache2/htdocs/  \
+  --mount type=bind,source=/public/data/apache/conf/httpd.conf,target=/usr/local/apache2/conf/httpd.conf  \
+  -v /public/data/apache/logs/:/usr/local/apache2/logs/  \
+  -d httpd
+
+```
+
+此时就可以访问了。
+
 
 ## 维护
 
-将本仓库克隆，然后使用hugo构建，将public目录下文件全部链接到www目录，然后修改一些参数？
+
+- 暂停和删除`liulab_website`容器。
+- 拉取和更新仓库。
+- 使用`hugo`重新生成页面。
+- 运行`sudo ./run_website.sh liulab_website`
