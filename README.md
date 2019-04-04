@@ -59,6 +59,27 @@ docker run --name $1 -p 80:80 \
 
 此时就可以访问了。
 
+下面展示下`apache`目录结构：
+
+```
+.
+├── conf
+│   └── httpd.conf
+├── logs
+│   └── httpd.pid
+├── www -> XSLiuLab.github.io/public/
+└── XSLiuLab.github.io
+    ├── archetypes
+    ├── config.toml
+    ├── content
+    ├── public
+    ├── README.md
+    ├── _redirects
+    ├── resources
+    ├── static
+    └── themes
+```
+
 
 ## 维护
 
