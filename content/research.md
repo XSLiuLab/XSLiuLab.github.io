@@ -30,47 +30,46 @@ Welcome graduate or undergraduate students to contact Professor Liu:
 
 ![](/img/group2.jpg)
 
-**PI**
+### PI
 
 * Xue-Song Liu
 
-Graduate students
-
-* Jing Zhang
-* Shixiang Wang 
-* Zaoke He. 
-
-Lab manager 
-
-* Yuanyuan Shao.
-
-Postdoc 
+### Post-doctors
 
 * Yuxing Chen
 
-Undergraduate students
+### Graduate students
 
-* Qi Zhu
-* Jiayue Zhao
+* Shixiang Wang 
+* Zaoke He
+* Xuan Wang
+* Huimin Li
+
+### Undergraduate students
+
 * Lu Yang
 * Zhaoyang Jiang  
 
-Lab alumni
+### Lab alumni
 
 * Xiaolin Wu
-* Da Xie. 
+* Da Xie
+* Jing Zhang
+* Yuanyuan Shao
+* Qi Zhu
+* Jiayue Zhao
 
 ## Publications
 
 1. Wang S, Jia M, He Z, Liu XS. APOBEC3B and APOBEC mutational signature as potential predictive markers for immunotherapy response in non-small cell lung cancer. Oncogene. 2018 Apr 26. doi: 10.1038/s41388-018-0245-9. 
 
-1. Ming Chen, Jiangwen Zhang, Katia Sampieri, John G. Clohessy, Lourdes Mendez, Enrique Gonzalez-Billalabeitia, Xue-Song Liu, Yu-Ru Lee, Jacqueline Fung, Jesse M. Katon, Archita Venugopal Menon, Kaitlyn A. Webster, Christopher Ng, Maria Dilia Palumbieri , Moussa S. Diolombi, Susanne B. Breitkopf, Julie Teruya-Feldstein, Sabina Signoretti, Roderick T. Bronson, John M. Asara, Mireia Castillo-Martin, Carlos Cordon-Cardo, Pier Paolo Pandolfi. An aberrant SREBP-dependent lipogenic program promotes metastatic prostate cancer. Nature Genetics. 2018 Feb;50(2):206-218. doi: 10.1038/s41588-017-0027-2. 
+2. Ming Chen, Jiangwen Zhang, Katia Sampieri, John G. Clohessy, Lourdes Mendez, Enrique Gonzalez-Billalabeitia, Xue-Song Liu, Yu-Ru Lee, Jacqueline Fung, Jesse M. Katon, Archita Venugopal Menon, Kaitlyn A. Webster, Christopher Ng, Maria Dilia Palumbieri , Moussa S. Diolombi, Susanne B. Breitkopf, Julie Teruya-Feldstein, Sabina Signoretti, Roderick T. Bronson, John M. Asara, Mireia Castillo-Martin, Carlos Cordon-Cardo, Pier Paolo Pandolfi. An aberrant SREBP-dependent lipogenic program promotes metastatic prostate cancer. Nature Genetics. 2018 Feb;50(2):206-218. doi: 10.1038/s41588-017-0027-2. 
 
-1. Gerarduzzi C, de Polo A, Liu XS, El Kharbili M, Little JB, Yuan ZM. Human epidermal growth factor receptor 4 (Her4) Suppresses p53 Protein via Targeting the MDMX-MDM2 Protein Complex: IMPLICATION OF A NOVEL MDMX SER-314 PHOSPHOSITE. J Biol Chem. 2016 Dec 9;291(50):25937-25949. 
+3. Gerarduzzi C, de Polo A, Liu XS, El Kharbili M, Little JB, Yuan ZM. Human epidermal growth factor receptor 4 (Her4) Suppresses p53 Protein via Targeting the MDMX-MDM2 Protein Complex: IMPLICATION OF A NOVEL MDMX SER-314 PHOSPHOSITE. J Biol Chem. 2016 Dec 9;291(50):25937-25949. 
 
-1. Liu XS, Liu Z, Gerarduzzi C, Choi DE, Ganapathy S, Pandolfi PP, Yuan ZM. Somatic human ZBTB7A zinc finger mutations promote cancer progression. Oncogene. 2015 Oct 12. doi: 10.1038/onc.2015.371.
+4. Liu XS, Liu Z, Gerarduzzi C, Choi DE, Ganapathy S, Pandolfi PP, Yuan ZM. Somatic human ZBTB7A zinc finger mutations promote cancer progression. Oncogene. 2015 Oct 12. doi: 10.1038/onc.2015.371.
 
-1. Liu XS, Chandramouly G, Rass E, Guan Y, Wang G, Hobbs RM, Rajendran A, Xie A, Shah JV, Davis AJ, Scully R, Lunardi A, Pandolfi PP. LRF maintains genome integrity by regulating the non-homologous end joining pathway of DNA repair. Nature Communications. 2015 Oct 8; 6:8325. doi: 10.1038/ncomms9325. 
+5. Liu XS, Chandramouly G, Rass E, Guan Y, Wang G, Hobbs RM, Rajendran A, Xie A, Shah JV, Davis AJ, Scully R, Lunardi A, Pandolfi PP. LRF maintains genome integrity by regulating the non-homologous end joining pathway of DNA repair. Nature Communications. 2015 Oct 8; 6:8325. doi: 10.1038/ncomms9325. 
 
 **_Publications before joining Shanghaitech_**:  
 

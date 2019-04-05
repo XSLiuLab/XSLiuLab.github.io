@@ -8,7 +8,7 @@ canonifyurls = true
 theme = "hugo-academic-group"
 title = "Xue-Song Liu lab"
 math = true
-copyright = "&copy; LiuXS Lab 2018 -- all rights reserved"
+copyright = "LiuXS Lab &copy; 2018 -- all rights reserved"
 enableRobotsTXT = true
 
 [taxonomies]
@@ -24,23 +24,23 @@ tag = "tags"
   address = "L building A406, ShanghaiTech. University, 393 Middle Huaxia Road, Pudong District, Shanghai"
 
   slogan = "Laboratory of Cancer Biology"
-  slogan_text = "LiuXS Lab, ShanghaiTech University"
+  slogan_text = "L building A406, ShanghaiTech. University"
 
   [params.logo]
     image = "img/logo_red.svg"
     link = "http://www.shanghaitech.edu.cn/main.htm"
 
-#  [[params.navbar_hierarchy]]
-#    name = "LiuXS Lab"
-#    link = "https://liuxslab.netlify.com/"
-#    position = 1
+  [[params.navbar_hierarchy]]
+    name = "Xue-Song Liu Lab"
+    link = "/"
+    position = 1
 
   [[params.slogan_columns]]
     title = ""
     text = ""
  #   link = "/approach"
  #   link_text = "Read more"
-    weight = 1
+ #   weight = 1
  #   weight = 3
   
   [[params.slogan_columns]]

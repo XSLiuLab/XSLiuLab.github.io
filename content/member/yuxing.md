@@ -7,7 +7,7 @@ portrait = "/portraits/yuxing.jpg"
 short_bio = "Postdoc"
 short_name = "yuxing"
 title = "Yuxing Chen"
-sort_position = 3
+sort_position = 2
 
 [[social]]
     icon = "envelope"

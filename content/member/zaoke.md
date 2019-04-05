@@ -8,7 +8,7 @@ portrait = "/portraits/zaoke2.png"
 short_bio = "Graduate Student"
 short_name = "zaoke"
 title = "Zaoke He"
-sort_position = 5
+sort_position = 3
 
 [[social]]
     icon = "envelope"

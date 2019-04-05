@@ -19,10 +19,11 @@ html {
 }
 
 header{
-    background-image: url("/img/header.jpg");
+    background-image: url("");
     background-size: cover;
     text-align: center;
     color: #000;
+    /*background-repeat:no-repeat;*/
     background-position: center;
     /* min-height: 100%;  */
 }
@@ -49,9 +50,9 @@ header{
 }
 
 .header-content .header-content-inner p {
-    margin-bottom: 50px;
-    font-size: 16px;
-    font-weight: 300;
+    margin-bottom: 30px;
+    font-size: 20px;
+    font-weight: 1000;
     color: rgba(0,0,0,.7);
 }
 
