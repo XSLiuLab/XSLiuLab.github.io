@@ -84,7 +84,7 @@ docker run --name $1 -p 80:80 \
 ## 维护
 
 
-- 暂停和删除`liulab_website`容器。
+- 停止`liulab_website`容器。
 - 拉取和更新仓库。
 - 使用`hugo`重新生成页面。
-- 运行`sudo ./run_website.sh liulab_website`
+- 重新运行`liulab_website`容器
