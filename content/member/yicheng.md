@@ -1,13 +1,13 @@
 +++
 bio = ""
 date = "2018-04-30"
-id = "u-jiayue"
-name = "Jiayue Zhao"
+id = "u-yicheng"
+name = "Yicheng Feng"
 portrait = "/portraits/portrait.jpg"
 short_bio = "Undergraduate Student"
-short_name = "jiayue"
-title = "Jiayue Zhao"
-sort_position = 8
+short_name = "Yicheng"
+title = "Yicheng Feng"
+sort_position = 7
 
 [[social]]
     icon = "envelope"

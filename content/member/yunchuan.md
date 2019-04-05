@@ -1,13 +1,13 @@
 +++
 bio = ""
 date = "2018-04-30"
-id = "u-zhuqi"
-name = "Qi Zhu"
+id = "u-yunchuan"
+name = "Yunchuan Ma"
 portrait = "/portraits/portrait.jpg"
 short_bio = "Undergraduate Student"
-short_name = "zhuqi"
-title = "Qi Zhu"
-sort_position = 7
+short_name = "yunchuan"
+title = "Yunchuan Ma"
+sort_position = 8
 
 [[social]]
     icon = "envelope"

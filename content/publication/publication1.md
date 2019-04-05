@@ -12,7 +12,7 @@ title = "APOBEC3B and APOBEC mutational signature as potential predictive marker
 url_code = ""
 url_dataset = ""
 url_pdf = "https://www.nature.com/articles/s41388-018-0245-9.pdf"
-url_project = "/project/project2-immunotherapyBiomarkers"
+url_project = "/project/project2-immunotherapybiomarkers"
 url_slides = ""
 url_video = ""
 
