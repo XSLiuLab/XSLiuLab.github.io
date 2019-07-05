@@ -41,10 +41,10 @@ sort_position = 4
 
 +++
 
-Hi, I am a graduate student of ShanghaiTech. University at the Xue-Song Liu Lab. My research interests include cancer driver and biomarker discovery, bioinformatics.
-
-I am learning more about cancer researches, programming (R & Python & Linux Shell) and statistics due to my limited skill levels.
+Shixiang Wang is a Ph.D. student of Cancer Informatics at ShanghaiTech. University. Shixiang Wang’s interests include immunotherapy genomics, [development of R/Python/Linux tools](https://shixiangwang.github.io/home/en/tools/), knowledge sharing, and machine learning, etc.
 
 ## Publications
+
+1. Wang, S., Zhang, J., He, Z., Wu, K., & Liu, X. S. (2019). The predictive power of tumor mutational burden in lung cancer immunotherapy response is influenced by patients’ sex. International journal of cancer.
 
 1. Wang S, Jia M, He Z, Liu XS. APOBEC3B and APOBEC mutational signature as potential predictive markers for immunotherapy response in non-small cell lung cancer. Oncogene. 2018 Apr 26. doi: 10.1038/s41388-018-0245-9. 

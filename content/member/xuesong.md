@@ -40,6 +40,8 @@ sort_position = 1
 
 ## Publications
 
+1. Wang, S., Zhang, J., He, Z., Wu, K., & Liu, X. S. (2019). The predictive power of tumor mutational burden in lung cancer immunotherapy response is influenced by patients’ sex. International journal of cancer.
+
 1. Wang S, Jia M, He Z, Liu XS. APOBEC3B and APOBEC mutational signature as potential predictive markers for immunotherapy response in non-small cell lung cancer. Oncogene. 2018 Apr 26. doi: 10.1038/s41388-018-0245-9. 
 
 1. Ming Chen, Jiangwen Zhang, Katia Sampieri, John G. Clohessy, Lourdes Mendez, Enrique Gonzalez-Billalabeitia, Xue-Song Liu, Yu-Ru Lee, Jacqueline Fung, Jesse M. Katon, Archita Venugopal Menon, Kaitlyn A. Webster, Christopher Ng, Maria Dilia Palumbieri , Moussa S. Diolombi, Susanne B. Breitkopf, Julie Teruya-Feldstein, Sabina Signoretti, Roderick T. Bronson, John M. Asara, Mireia Castillo-Martin, Carlos Cordon-Cardo, Pier Paolo Pandolfi. An aberrant SREBP-dependent lipogenic program promotes metastatic prostate cancer. Nature Genetics. 2018 Feb;50(2):206-218. doi: 10.1038/s41588-017-0027-2. 
