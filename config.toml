@@ -3,7 +3,7 @@ publishdir = "public"
 static = "/static"
 builddrafts = false
 # Replace this with your website URL
-baseurl = "http://liuxslab.slst.shanghaitech.edu.cn/"
+baseurl = "https://liuxslab.netlify.com/"
 canonifyurls = true
 theme = "hugo-academic-group"
 title = "Xue-Song Liu lab"
