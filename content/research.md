@@ -44,6 +44,16 @@ Welcome graduate or undergraduate students to contact Professor Liu:
 * Zaoke He
 * Xuan Wang
 * Huimin Li
+  
+### Rotation students
+
+* Defang Deng
+* Mengqi Xu
+* 
+
+### Exchange student
+
+* Li An Cowley
 
 ### Undergraduate students
 
@@ -58,8 +68,12 @@ Welcome graduate or undergraduate students to contact Professor Liu:
 * Yuanyuan Shao
 * Qi Zhu
 * Jiayue Zhao
+* Yunchuan Ma
+* Yicheng Feng
 
 ## Publications
+
+1. Wang, S., Zhang, J., He, Z., Wu, K., & Liu, X. S. (2019). The predictive power of tumor mutational burden in lung cancer immunotherapy response is influenced by patients’ sex. International journal of cancer.
 
 1. Wang S, Jia M, He Z, Liu XS. APOBEC3B and APOBEC mutational signature as potential predictive markers for immunotherapy response in non-small cell lung cancer. Oncogene. 2018 Apr 26. doi: 10.1038/s41388-018-0245-9. 
 

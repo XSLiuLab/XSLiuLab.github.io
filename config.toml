@@ -8,7 +8,7 @@ canonifyurls = true
 theme = "hugo-academic-group"
 title = "Xue-Song Liu lab"
 math = true
-copyright = "LiuXS Lab &copy; 2018 -- all rights reserved"
+copyright = "LiuXS Lab &copy; 2019 -- all rights reserved"
 enableRobotsTXT = true
 
 [taxonomies]
