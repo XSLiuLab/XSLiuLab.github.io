@@ -19,3 +19,5 @@ sort_position = 6
     role = "Exchange Student"
 
 +++
+
+Li An studied at Liu lab in summer, 2019.
