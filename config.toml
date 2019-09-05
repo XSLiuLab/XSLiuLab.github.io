@@ -8,7 +8,7 @@ canonifyurls = true
 theme = "hugo-academic-group"
 title = "Xue-Song Liu lab"
 math = true
-copyright = "LiuXS Lab &copy; 2019 -- all rights reserved"
+copyright = "Xue-Song Liu Lab &copy; 2019 -- all rights reserved"
 enableRobotsTXT = true
 
 [taxonomies]
@@ -45,7 +45,7 @@ tag = "tags"
   
   [[params.slogan_columns]]
     title = ""
-    text =  "Xue-Song Liu lab study the fundamental difference between cancer cell and normal somatic cell. With a purpose to identify cancer specific biomarkers and therapeutic targets. Multiple approaches, including cell biochemistry, bioinformatics and mouse modeling, are combined to investigate the basic mechanisms in cancer."
+    text =  "Xue-Song Liu lab studies the fundamental difference between cancer cell and normal somatic cell. With a purpose to identify cancer specific biomarkers and therapeutic targets. Multiple approaches, including cell biochemistry, bioinformatics and mouse modeling, are combined to investigate the basic mechanisms in cancer."
     link = "/research"
     link_text = "Read more"
     weight = 2
@@ -82,6 +82,10 @@ tag = "tags"
     subtitle = ""
     str_all = "More Posts"
     str_read_more = "Read more"
+
+  # Members section.
+  [params.members]
+    count = 8
 
   # Projects section.
   # Section will only be displayed if there are projects in `content/project/`.

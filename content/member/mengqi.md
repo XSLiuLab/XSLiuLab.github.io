@@ -7,7 +7,7 @@ portrait = "/portraits/portrait.jpg"
 short_bio = "Rotation Student"
 short_name = "mengqi"
 title = "Mengqi Xu"
-sort_position = 6
+sort_position = 99
 
 [[social]]
     icon = "envelope"
@@ -16,6 +16,6 @@ sort_position = 6
 
 [[organizations]]
     name = "ShanghaiTech. University"
-    role = "Rotation Student"
+    role = "Rotation Student (Summer, 2019)"
 
 +++

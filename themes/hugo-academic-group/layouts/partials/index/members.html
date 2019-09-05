@@ -1,3 +1,4 @@
+{{ $members_count := len (where (where .Data.Pages "Type" "member") ".Params.notonhomepage" nil) }}
 <section id="members" class="home-section">
     <div class="container">
         
@@ -10,7 +11,7 @@
        
         <!-- Members -->
         <div class="row">
-            {{ range (sort (where .Data.Pages "Type" "member") ".Params.sort_position")}}
+            {{ range first .Site.Params.members.count (sort (where .Data.Pages "Type" "member") ".Params.sort_position")}}
                 {{ partial "member_simple" . }}
             {{ end }}
         </div>

@@ -5,7 +5,7 @@ id = "s-zaoke"
 name = "Zaoke He"
 interests = ["CRISPR" ,"Cancer Chromatin Structure", "Funtion of Cancer Related Genes", "Genetic Engineered Mouse Model"]
 portrait = "/portraits/zaoke2.png"
-short_bio = "Graduate Student"
+short_bio = "PhD Student"
 short_name = "zaoke"
 title = "Zaoke He"
 sort_position = 3
@@ -17,7 +17,7 @@ sort_position = 3
 
 [[organizations]]
     name = "ShanghaiTech. University"
-    role = "Graduate Student"
+    role = "PhD Student"
 
 [[education]]
     course = "Biotechnology"
@@ -26,6 +26,8 @@ sort_position = 3
 +++
 
 ## Publications
+
+1. He, Z., Wang, S., Shao, Y., Zhang, J., Wu, X., Chen, Y., ... & Liu, X. S. (2019). Ras Downstream Effector GGCT Alleviates Oncogenic Stress. iScience, 19, 256-266.
 
 1. Wang, S., Zhang, J., He, Z., Wu, K., & Liu, X. S. (2019). The predictive power of tumor mutational burden in lung cancer immunotherapy response is influenced by patients’ sex. International journal of cancer.
 

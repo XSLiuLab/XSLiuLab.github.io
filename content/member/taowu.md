@@ -1,13 +1,13 @@
 +++
 bio = ""
-date = "2019-07-05"
-id = "s-defang"
-name = "Defang Deng"
+date = "2019-09-05"
+id = "s-taowu"
+name = "Tao Wu"
 portrait = "/portraits/portrait.jpg"
 short_bio = "Rotation Student"
-short_name = "defang"
-title = "Defang Deng"
-sort_position = 99
+short_name = "taowu"
+title = "Tao Wu"
+sort_position = 6
 
 [[social]]
     icon = "envelope"
@@ -16,6 +16,6 @@ sort_position = 99
 
 [[organizations]]
     name = "ShanghaiTech. University"
-    role = "Rotation Student (Summer, 2019)"
+    role = "Rotation Student (Summer, 2019 - Now)"
 
 +++

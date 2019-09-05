@@ -37,13 +37,19 @@ sort_position = 4
 
 [[organizations]]
     name = "ShanghaiTech. University"
-    role = "Graduate Student"
+    role = "PhD Student"
 
 +++
 
 Shixiang Wang is a Ph.D. student of Cancer Informatics at ShanghaiTech. University. Shixiang Wang’s interests include immunotherapy genomics, [development of R/Python/Linux tools](https://shixiangwang.github.io/home/en/tools/), knowledge sharing, and machine learning, etc.
 
 ## Publications
+
+1. Wang, S., Cowley, L. A. & Liu, X. S. (2019). Sex Differences in Cancer Immunotherapy Efficacy, Biomarkers, and Therapeutic Strategy. Molecules 2019, 24(18), 3214.
+
+1. Wang, S., & Liu, X. (2019). The UCSCXenaTools R package: a toolkit for accessing genomics data from UCSC Xena platform, from cancer multi-omics to single-cell RNA-seq. Journal of Open Source Software, 4(40), 1627.
+
+1. He, Z., Wang, S., Shao, Y., Zhang, J., Wu, X., Chen, Y., ... & Liu, X. S. (2019). Ras Downstream Effector GGCT Alleviates Oncogenic Stress. iScience, 19, 256-266.
 
 1. Wang, S., Zhang, J., He, Z., Wu, K., & Liu, X. S. (2019). The predictive power of tumor mutational burden in lung cancer immunotherapy response is influenced by patients’ sex. International journal of cancer.
 

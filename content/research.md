@@ -1,12 +1,12 @@
 # LiuXS Lab
 
-Xue-Song Liu lab study the fundamental difference between cancer cell and normal somatic cell. With a purpose to identify cancer specific biomarkers and therapeutic targets. Multiple approaches, including cell biochemistry, bioinformatics and mouse modeling, are combined to investigate the basic mechanisms in cancer.
+Xue-Song Liu lab studies the fundamental difference between cancer cell and normal somatic cell. With a purpose to identify cancer specific biomarkers and therapeutic targets. Multiple approaches, including cell biochemistry, bioinformatics and mouse modeling, are combined to investigate the basic mechanisms in cancer.
 
 ## Current research projects
 
 1. Using cell biochemistry and genetic engineered mouse models to study the function of novel cancer related genes, including C7orf24/GGCT and others.  
 
-1. Systematic study to identify biomarkers for cancer immunotherapy. See recent publication from our lab: [**Wang S, Jia M, He Z, Liu XS. APOBEC3B and APOBEC mutational signature as potential predictive markers for immunotherapy response in non-small cell lung cancer. *Oncogene*. 2018**](/publication/publication1/). 
+1. Systematic study to identify biomarkers for cancer immunotherapy. See recent publications from our lab. 
 
 1. Cancer genomic study to identify novel features and novel driving alterations for cancer evolution, with a specific focus on the function of non-coding DNA elements. 
 
@@ -26,17 +26,13 @@ Welcome graduate or undergraduate students to contact Professor Liu:
 
 ## Members
 
-![](/img/group1.jpg)
-
-![](/img/group2.jpg)
-
 ### PI
 
 * Xue-Song Liu
 
-### Post-doctors
+### Lab manager
 
-* Yuxing Chen
+* Xiaoqin Sun
 
 ### Graduate students
 
@@ -47,13 +43,13 @@ Welcome graduate or undergraduate students to contact Professor Liu:
   
 ### Rotation students
 
-* Defang Deng
-* Mengqi Xu
-* 
+* Defang Deng (Summer, 2019)
+* Mengqi Xu (Summer, 2019)
+* Tao Wu (Summer, 2019)
 
 ### Exchange student
 
-* Li An Cowley
+* Li An Cowley (Summer, 2019)
 
 ### Undergraduate students
 
@@ -70,8 +66,21 @@ Welcome graduate or undergraduate students to contact Professor Liu:
 * Jiayue Zhao
 * Yunchuan Ma
 * Yicheng Feng
+* Yuxing Chen
+
+### Gallery
+
+![](/img/group1.jpg)
+
+![](/img/group2.jpg)
 
 ## Publications
+
+1. Wang, S., Cowley, L. A. & Liu, X. S. (2019). Sex Differences in Cancer Immunotherapy Efficacy, Biomarkers, and Therapeutic Strategy. Molecules 2019, 24(18), 3214.
+
+1. Wang, S., & Liu, X. (2019). The UCSCXenaTools R package: a toolkit for accessing genomics data from UCSC Xena platform, from cancer multi-omics to single-cell RNA-seq. Journal of Open Source Software, 4(40), 1627.
+
+1. He, Z., Wang, S., Shao, Y., Zhang, J., Wu, X., Chen, Y., ... & Liu, X. S. (2019). Ras Downstream Effector GGCT Alleviates Oncogenic Stress. iScience, 19, 256-266.
 
 1. Wang, S., Zhang, J., He, Z., Wu, K., & Liu, X. S. (2019). The predictive power of tumor mutational burden in lung cancer immunotherapy response is influenced by patients’ sex. International journal of cancer.
 
