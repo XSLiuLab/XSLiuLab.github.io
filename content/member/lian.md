@@ -7,7 +7,7 @@ portrait = "/portraits/portrait.jpg"
 short_bio = "Exchange Student"
 short_name = "lian"
 title = "Li An Cowley"
-sort_position = 6
+sort_position = 99
 
 [[social]]
     icon = "envelope"
@@ -16,8 +16,12 @@ sort_position = 6
 
 [[organizations]]
     name = "ShanghaiTech. University"
-    role = "Exchange Student"
+    role = "Exchange Student (Summer, 2019)"
 
 +++
 
-Li An studied at Liu lab in summer, 2019.
+Li An is an exchange student from the University of Oxford, studied at Liu lab in summer, 2019.
+
+## Publications
+
+1. Wang, S., Cowley, L. A. & Liu, X. S. (2019). Sex Differences in Cancer Immunotherapy Efficacy, Biomarkers, and Therapeutic Strategy. Molecules 2019, 24(18), 3214.

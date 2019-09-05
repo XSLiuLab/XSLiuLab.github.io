@@ -2,7 +2,7 @@
 bio = ""
 date = "2018-04-30"
 id = "a-xuesong"
-interests = ["Cancer Biology", "Cancer Immunotherapy", "Genetic Engineered Mouse Models", "Chromatin Structure", "Driver Alteration"]
+interests = ["Cancer Biology", "Cancer Immunotherapy", "Genetic Engineered Mouse Models", "Chromatin Structure", "Driver Alteration", "Base editing", "CRISPR-Cas9"]
 name = "Xue-Song Liu"
 portrait = "/portraits/xuesong.jpg"
 short_bio = "PI and Assistant Professor of ShanghaiTech. University"
@@ -39,6 +39,12 @@ sort_position = 1
 
 
 ## Publications
+
+1. Wang, S., Cowley, L. A. & Liu, X. S. (2019). Sex Differences in Cancer Immunotherapy Efficacy, Biomarkers, and Therapeutic Strategy. Molecules 2019, 24(18), 3214.
+
+1. Wang, S., & Liu, X. (2019). The UCSCXenaTools R package: a toolkit for accessing genomics data from UCSC Xena platform, from cancer multi-omics to single-cell RNA-seq. Journal of Open Source Software, 4(40), 1627.
+
+1. He, Z., Wang, S., Shao, Y., Zhang, J., Wu, X., Chen, Y., ... & Liu, X. S. (2019). Ras Downstream Effector GGCT Alleviates Oncogenic Stress. iScience, 19, 256-266.
 
 1. Wang, S., Zhang, J., He, Z., Wu, K., & Liu, X. S. (2019). The predictive power of tumor mutational burden in lung cancer immunotherapy response is influenced by patients’ sex. International journal of cancer.
 
