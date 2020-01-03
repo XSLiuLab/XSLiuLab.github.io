@@ -4,7 +4,7 @@ date = "2019-09-05"
 id = "s-taowu"
 name = "Tao Wu"
 portrait = "/portraits/portrait.jpg"
-short_bio = "Rotation Student"
+short_bio = "Graduate Student"
 short_name = "taowu"
 title = "Tao Wu"
 sort_position = 6
@@ -16,6 +16,10 @@ sort_position = 6
 
 [[organizations]]
     name = "ShanghaiTech. University"
-    role = "Rotation Student (Summer, 2019 - Now)"
+    role = "Graduate Student"
 
 +++
+
+## Publications
+
+1. Wang, S., He, Z., Wang, X., Li, H., & Liu, X. S. (2019). Antigen presentation and tumor immunogenicity in cancer immunotherapy response prediction. eLife, 8.

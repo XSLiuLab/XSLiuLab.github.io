@@ -19,3 +19,7 @@ sort_position = 5
     role = "Graduate Student"
 
 +++
+
+## Publications
+
+1. Wang, S., He, Z., Wang, X., Li, H., & Liu, X. S. (2019). Antigen presentation and tumor immunogenicity in cancer immunotherapy response prediction. eLife, 8.

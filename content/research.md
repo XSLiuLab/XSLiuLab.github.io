@@ -40,19 +40,11 @@ Welcome graduate or undergraduate students to contact Professor Liu:
 * Zaoke He
 * Xuan Wang
 * Huimin Li
+* Tao Wu
   
-### Rotation students
-
-* Defang Deng (Summer, 2019)
-* Mengqi Xu (Summer, 2019)
-* Tao Wu (Summer, 2019)
-
-### Exchange student
-
-* Li An Cowley (Summer, 2019)
-
 ### Undergraduate students
 
+* Jingkang Yang
 * Lu Yang
 * Zhaoyang Jiang  
 
@@ -67,6 +59,7 @@ Welcome graduate or undergraduate students to contact Professor Liu:
 * Yunchuan Ma
 * Yicheng Feng
 * Yuxing Chen
+* Li An Cowley (Summer, 2019)
 
 ### Gallery
 
@@ -75,6 +68,8 @@ Welcome graduate or undergraduate students to contact Professor Liu:
 ![](/img/group2.jpg)
 
 ## Publications
+
+1. Wang, S., He, Z., Wang, X., Li, H., & Liu, X. S. (2019). Antigen presentation and tumor immunogenicity in cancer immunotherapy response prediction. eLife, 8.
 
 1. Wang, S., Cowley, L. A. & Liu, X. S. (2019). Sex Differences in Cancer Immunotherapy Efficacy, Biomarkers, and Therapeutic Strategy. Molecules 2019, 24(18), 3214.
 
