@@ -45,6 +45,8 @@ Shixiang Wang is a Ph.D. student of Cancer Informatics at ShanghaiTech. Universi
 
 ## Publications
 
+1. Wang, S., He, Z., Wang, X., Li, H., & Liu, X. S. (2019). Antigen presentation and tumor immunogenicity in cancer immunotherapy response prediction. eLife, 8.
+
 1. Wang, S., Cowley, L. A. & Liu, X. S. (2019). Sex Differences in Cancer Immunotherapy Efficacy, Biomarkers, and Therapeutic Strategy. Molecules 2019, 24(18), 3214.
 
 1. Wang, S., & Liu, X. (2019). The UCSCXenaTools R package: a toolkit for accessing genomics data from UCSC Xena platform, from cancer multi-omics to single-cell RNA-seq. Journal of Open Source Software, 4(40), 1627.

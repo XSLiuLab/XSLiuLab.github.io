@@ -27,6 +27,8 @@ sort_position = 3
 
 ## Publications
 
+1. Wang, S., He, Z., Wang, X., Li, H., & Liu, X. S. (2019). Antigen presentation and tumor immunogenicity in cancer immunotherapy response prediction. eLife, 8.
+
 1. He, Z., Wang, S., Shao, Y., Zhang, J., Wu, X., Chen, Y., ... & Liu, X. S. (2019). Ras Downstream Effector GGCT Alleviates Oncogenic Stress. iScience, 19, 256-266.
 
 1. Wang, S., Zhang, J., He, Z., Wu, K., & Liu, X. S. (2019). The predictive power of tumor mutational burden in lung cancer immunotherapy response is influenced by patients’ sex. International journal of cancer.
